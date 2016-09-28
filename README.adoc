@@ -13,8 +13,7 @@ toc::[]
 
 == Video
 
-.Living Documentation : vous allez aimer la documentation ! (Cyrille Martraire, Devoxx France 2016).
-video::Tw-wcps7WqU[youtube]
+* https://www.youtube.com/watch?v=Tw-wcps7WqU[Living Documentation : vous allez aimer la documentation !] - by Cyrille Martraire, Devoxx France 2016.
 
 == Behaviour Driven Design
 
