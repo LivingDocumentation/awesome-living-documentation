@@ -1,0 +1,33 @@
+
+= awesome-living-documentation
+:toc:
+:toc-placement!:
+
+A curated list of stuff about Awesome Living Documentation
+
+toc::[]
+
+== Books
+
+* https://leanpub.com/livingdocumentation[Living Documentation by design, with Domain-Driven Design] - by Cyrille Martraire(@cyriux).
+
+== Video
+
+.Living Documentation : vous allez aimer la documentation ! (Cyrille Martraire, Devoxx France 2016).
+video::Tw-wcps7WqU[youtube]
+
+== Behaviour Driven Design
+
+* https://cucumber.io/[cucumber] - A framework to integrate BDD in your project with multiple language implementation.
+* http://rmpestano.github.io/cukedoctor/[cukedoctor] - A cucumber plugin for better reporting.
+
+== Language
+
+* http://asciidoctor.org/[asciidoctor] - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more.
+* https://github.com/cucumber/cucumber/wiki/Gherkin[gherkin] - Business Readable, Domain Specific Language used by cucumber.
+
+== Tools
+
+* https://github.com/cyriux/dot-diagram[dot-diagram] - A java library to generate dot diagram.
+* https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj[plantuml-viewer] - Chrome plugin to visualize image representation of plantuml syntax.
+* https://github.com/paul-hammant/qdox[qdox] - A java library to parse code, useful to generate code based documentation.
