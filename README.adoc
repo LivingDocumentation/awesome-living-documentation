@@ -20,7 +20,7 @@ toc::[]
 
 * https://blog-rmannibucau.rhcloud.com/#/post/generate-configuration-from-code-adoc[Generate your adoc module/application configuration instead of maintaining it manually] - by Romain Manni-Bucau.
 
-== Behaviour Driven Design
+== Behaviour Driven Development
 
 * https://cucumber.io/[cucumber] - A framework to integrate BDD in your project with multiple language implementation.
 * http://rmpestano.github.io/cukedoctor/[cukedoctor] - A cucumber plugin for better reporting.
