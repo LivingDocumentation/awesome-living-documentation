@@ -14,6 +14,11 @@ toc::[]
 == Video
 
 * https://www.youtube.com/watch?v=Tw-wcps7WqU[Living Documentation : vous allez aimer la documentation !] - by Cyrille Martraire, Devoxx France 2016.
+* https://www.youtube.com/watch?v=QDw0XpktYqI&list=PLUJzERpatfsXGv1q1kolSgriwVZXRqKVw&index=2[La boite à outils pour une Living Documentation] - by Benoit Prioux, BDX/IO 2016.
+
+== Blog
+
+* https://blog-rmannibucau.rhcloud.com/#/post/generate-configuration-from-code-adoc[Generate your adoc module/application configuration instead of maintaining it manually] - by Romain Manni-Bucau.
 
 == Behaviour Driven Design
 
