@@ -14,7 +14,7 @@ toc::[]
 == Video
 
 * https://www.youtube.com/watch?v=Tw-wcps7WqU[Living Documentation : vous allez aimer la documentation !] - by Cyrille Martraire, Devoxx France 2016.
-* https://www.youtube.com/watch?v=QDw0XpktYqI&list=PLUJzERpatfsXGv1q1kolSgriwVZXRqKVw&index=2[La boite à outils pour une Living Documentation] - by Benoit Prioux, BDX/IO 2016.
+* https://www.youtube.com/watch?v=xbcFyYIKZ_M&list=PLUJzERpatfsXGv1q1kolSgriwVZXRqKVw&index=25[La boite à outils pour une Living Documentation] - by Benoit Prioux, BDX/IO 2016.
 
 == Blog
 
