@@ -36,3 +36,4 @@ toc::[]
 * https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj[plantuml-viewer] - Chrome plugin to visualize image representation of plantuml syntax.
 * https://github.com/paul-hammant/qdox[qdox] - A java library to parse code, useful to generate code based documentation.
 * https://github.com/ferstl/depgraph-maven-plugin[depgraph] - A maven plugin to genenrate dependencies graph
+* https://gist.github.com/javathought/b9ad1e34047ad99a96fed6fce0016e68 - A Notepad++ syntax highlighting for Gherkin with en,fr keywords
