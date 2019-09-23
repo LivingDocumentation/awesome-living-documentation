@@ -32,6 +32,7 @@ toc::[]
 
 == Tools
 
+* http://www.picklesdoc.com/ - an open source living documentation generator
 * https://github.com/cyriux/dot-diagram[dot-diagram] - A java library to generate dot diagram.
 * https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj[plantuml-viewer] - Chrome plugin to visualize image representation of plantuml syntax.
 * https://github.com/paul-hammant/qdox[qdox] - A java library to parse code, useful to generate code based documentation.
