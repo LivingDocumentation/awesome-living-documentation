@@ -18,7 +18,7 @@ toc::[]
 
 == Blog
 
-* https://blog-rmannibucau.rhcloud.com/#/post/generate-configuration-from-code-adoc[Generate your adoc module/application configuration instead of maintaining it manually] - by Romain Manni-Bucau.
+* https://rmannibucau.metawerx.net/post/generate-configuration-from-code-adoc[Generate your adoc module/application configuration instead of maintaining it manually] - by Romain Manni-Bucau.
 
 == Behaviour Driven Development
 
