@@ -16,6 +16,8 @@ toc::[]
 * https://www.youtube.com/watch?v=Tw-wcps7WqU[Living Documentation : vous allez aimer la documentation !] - by Cyrille Martraire, Devoxx France 2016.
 * https://www.youtube.com/watch?v=xbcFyYIKZ_M&list=PLUJzERpatfsXGv1q1kolSgriwVZXRqKVw&index=25[La boite à outils pour une Living Documentation] - by Benoit Prioux, BDX/IO 2016.
 * https://www.youtube.com/watch?v=LG4SADs2nf8[&#91;SC&#93; Living Documentation] - by Sébastien Fauvel, BreizhCamp 2020.
+* https://www.youtube.com/watch?v=v--zkIEciq4&t=1378s[BDX I/O 2019 - Architecture Hexagonale Level 2: Comment bien écrire vos tests - Julien Topçu et Jordan Nourry] 22m58s - 27m30s : Spring Rest Docs AsciiDoc generated snippets generated from tests
+** https://gitlab.com/crafts-records/talkadvisor/talkadvisor-back[TalkAdvisor BackEnd code repo from the talk]
 
 == Blog
 
