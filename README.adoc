@@ -30,6 +30,7 @@ toc::[]
 
 * http://asciidoctor.org/[asciidoctor] - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more.
 * https://github.com/cucumber/cucumber/wiki/Gherkin[gherkin] - Business Readable, Domain Specific Language used by cucumber.
+* https://hexdocs.pm/ex_unit/ExUnit.DocTest.html[Elixir ExUnit.DocTest] - Allows to generate executable tests from examples in code documentation.
 
 == Tools
 * https://github.com/Arnauld/tzatziki - Cucumber documentation generation tools.
