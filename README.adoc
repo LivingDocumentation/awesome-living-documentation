@@ -30,6 +30,7 @@ toc::[]
 
 * http://asciidoctor.org/[asciidoctor] - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more.
 * https://github.com/cucumber/cucumber/wiki/Gherkin[gherkin] - Business Readable, Domain Specific Language used by cucumber.
+* https://doc.rust-lang.org/rustdoc/documentation-tests.html[Rust Documentation Tests] - Allows running your documentation examples as tests. 
 
 == Tools
 * https://github.com/Arnauld/tzatziki - Cucumber documentation generation tools.
