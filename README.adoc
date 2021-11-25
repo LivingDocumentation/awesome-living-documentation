@@ -29,6 +29,8 @@ toc::[]
 == Language
 
 * http://asciidoctor.org/[asciidoctor] - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more.
+* https://zenika.github.io/adoc-presentation-model/reveal/syntax-quick-reference.html[AsciiDoc Syntax Quick Reference]
+* https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html[Reveal my Asciidoc - a deep dive into presentation as code]
 * https://github.com/cucumber/cucumber/wiki/Gherkin[gherkin] - Business Readable, Domain Specific Language used by cucumber.
 
 == Tools
@@ -42,3 +44,4 @@ toc::[]
 
 == Templates
 * https://github.com/bflorat/modele-da - An AsciiDoc starting point for technical achitecture document artifact (French)
+
