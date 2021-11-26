@@ -34,6 +34,7 @@ toc::[]
 * https://zenika.github.io/adoc-presentation-model/reveal/syntax-quick-reference.html[AsciiDoc Syntax Quick Reference]
 * https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html[Reveal my Asciidoc - a deep dive into presentation as code]
 * https://github.com/cucumber/cucumber/wiki/Gherkin[gherkin] - Business Readable, Domain Specific Language used by cucumber.
+* https://hexdocs.pm/ex_unit/ExUnit.DocTest.html[Elixir ExUnit.DocTest] - Allows to generate executable tests from examples in code documentation.
 * https://doc.rust-lang.org/rustdoc/documentation-tests.html[Rust Documentation Tests] - Allows running your documentation examples as tests. 
 
 == Tools
