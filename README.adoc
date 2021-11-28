@@ -16,7 +16,7 @@ toc::[]
 * https://www.youtube.com/watch?v=Tw-wcps7WqU[Living Documentation : vous allez aimer la documentation !] - by Cyrille Martraire, Devoxx France 2016.
 * https://www.youtube.com/watch?v=xbcFyYIKZ_M&list=PLUJzERpatfsXGv1q1kolSgriwVZXRqKVw&index=25[La boite à outils pour une Living Documentation] - by Benoit Prioux, BDX/IO 2016.
 * https://www.youtube.com/watch?v=LG4SADs2nf8[&#91;SC&#93; Living Documentation] - by Sébastien Fauvel, BreizhCamp 2020.
-* https://www.youtube.com/watch?v=v--zkIEciq4&t=1378s[BDX I/O 2019 - Architecture Hexagonale Level 2: Comment bien écrire vos tests - Julien Topçu et Jordan Nourry] 22m58s - 27m30s : Spring Rest Docs AsciiDoc generated snippets generated from tests
+* https://www.youtube.com/watch?v=v--zkIEciq4&t=1378s[Architecture Hexagonale Level 2: Comment bien écrire vos tests (22m58s - 27m30s)] - Spring Rest Docs AsciiDoc - HTTP snippets generated from tests - by Julien Topçu & Jordan Nourry, BDX I/O 2019.
 ** https://gitlab.com/crafts-records/talkadvisor/talkadvisor-back[TalkAdvisor BackEnd code repo from the talk]
 
 == Blog
@@ -31,8 +31,8 @@ toc::[]
 == Language
 
 * http://asciidoctor.org/[asciidoctor] - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more.
-* https://zenika.github.io/adoc-presentation-model/reveal/syntax-quick-reference.html[AsciiDoc Syntax Quick Reference]
-* https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html[Reveal my Asciidoc - a deep dive into presentation as code]
+** https://zenika.github.io/adoc-presentation-model/reveal/syntax-quick-reference.html[AsciiDoc Syntax Quick Reference]
+** https://zenika.github.io/adoc-presentation-model/reveal/reveal-my-asciidoc.html[Reveal my Asciidoc - a deep dive into presentation as code]
 * https://github.com/cucumber/cucumber/wiki/Gherkin[gherkin] - Business Readable, Domain Specific Language used by cucumber.
 * https://hexdocs.pm/ex_unit/ExUnit.DocTest.html[Elixir ExUnit.DocTest] - Allows to generate executable tests from examples in code documentation.
 * https://doc.rust-lang.org/rustdoc/documentation-tests.html[Rust Documentation Tests] - Allows running your documentation examples as tests. 
