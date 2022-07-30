@@ -18,6 +18,7 @@ toc::[]
 * https://www.youtube.com/watch?v=LG4SADs2nf8[&#91;SC&#93; Living Documentation] - by Sébastien Fauvel, BreizhCamp 2020.
 * https://www.youtube.com/watch?v=v--zkIEciq4&t=1378s[Architecture Hexagonale Level 2: Comment bien écrire vos tests (22m58s - 27m30s)] - Spring Rest Docs AsciiDoc - HTTP snippets generated from tests - by Julien Topçu & Jordan Nourry, BDX I/O 2019.
 ** https://gitlab.com/crafts-records/talkadvisor/talkadvisor-back[TalkAdvisor BackEnd code repo from the talk]
+* https://youtube.com/clip/UgkxAZ0Efz4CHHqBbmEZ6mDe8bj1QXxG35Zk:[Live documentation from examples in Glamourous Toolkit (Pharo)] - A bit of Smalltalk: Oscar Nierstrasz at UniBe, June 2022
 
 == Blog
 
